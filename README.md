@@ -123,6 +123,7 @@
 | [پادکست آن](http://handica.art/on/on.html) | در پادکست آن من هربار داستان واقعی آدمها رو تعریف می‌کنم و سعی می‌کنیم خودمون رو جاشون بذاریم | [فید](http://rss.castbox.fm/everest/2e3008bdf0d546e5aec896ab29ef0bfb.xml) |
 | [چیروک](https://t.me/chirook_podcast) | چیروک نقل دوباره داستان‌های عامیانه و شفاهی ایران است | [فید](http://rss.castbox.fm/everest/30a8a0f5f8c74081aad58a0391c879b4.xml) |
 | [هری پاتر](https://harrypotterpodcast.ir/) | با هر قسمت از این پادکست میخوایم شما رو توی دنیای هری پاتر غرق کنیم | [فید](https://anchor.fm/s/defe8c4/podcast/rss) |
+| [هیرولیک](https://herolicpodcast.podbean.com/) | پادکست روایت تولد و زیست ابرقهرمان‌ها | [فید](https://feed.podbean.com/herolicpodcast/feed.xml) |
 | [داستان شب](https://t.me/dastaneshab) | ما هر شب راس ساعت ۲۳، برای شما یک داستان کوتاه می‌خوانیم | [فید](https://shenoto.com/service/api/feed/dastaneshab) |
 | [رادیو چهرازی](https://soundcloud.com/radiochehrazi-1) | ایده این است که گویی عده‌ای از بیماران آسایشگاه چهرازی | [فید](https://anchor.fm/s/11ca4ad4/podcast/rss) |
 | [رادیو دیو](https://t.me/radiodeev) | رادیو دیو میانبری به حال و هوای سرزمین، مردم یا حتی یک فصل. تم خاص هر اپیزود تشویقمان می‌کند به دنیایی نو سرک بکشیم | [فید](https://anchor.fm/s/6810cbc/podcast/rss) |
@@ -383,7 +384,6 @@
 [نی‌نی‌کده](http://anchor.fm/ninikadeh) | پادکستی برای مادران
 [وقت خواب](http://www.sleeptimepodcast.ir) | پادکستی آرامش بخش، برای رفع بی‌خوابی
 [هنگامه](https://anchor.fm/kamran856) | پادکست هنگامه فعلا درباره‌ی توسعه‌ی (اقتصادی-سیاسی-اجتماعی) است.
-[هیرولیک](https://herolicpodcast.podbean.com/) | پادکست روایت تولد و زیست ابرقهرمان‌ها
 [هیچ‌کیدز](http://manjanigh.com/?cat=5) | توضیح یافت نشد :)
 [یک پنجره](https://castbox.fm/channel/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%DB%8C%DA%A9-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-YekPanjare-id2418435?country=us) | در هر قسمت از پادکست فارسی یک‌ پنجره، یک جستار یا تجربه‌ی شخصی یک نویسنده یا خبرنگار را روایت می‌کنیم
 
